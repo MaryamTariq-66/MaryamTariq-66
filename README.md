@@ -5,9 +5,8 @@
 
 <div align="center">
   <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MaryamTariq-66&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=2900" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=maryamtariq-66&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
 
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="20">
