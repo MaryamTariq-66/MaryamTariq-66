@@ -51,20 +51,11 @@
     <summary style="font-size: 2.5em;"><b>✨ About Me</b></summary>
     <br>
     <p style="font-size: 1.5em;"> <!-- Adjusted font size -->
-      👋 Hey there! I'm rebuilding my GitHub presence after my previous profile was lost. With over a year of experience and a passion for creating amazing web experiences, I'm here to contribute and grow with the community! 
+      👋 I’m Maryam Tariq, an AI undergraduate passionate about Machine Learning, Computer Vision, and data-driven solutions. I work with Python, Pandas, OpenCV, and deep learning (CNNs), and I enjoy building practical AI projects while continuously learning and improving my skills. 
     </p>
   </details>
 
 </div>
-
-
-<!--
-### ⚡ Building Amazing Things
-- 🎯 **Currently Crafting**: AI-Powered Exam Scheduler (revolutionizing how teachers plan)
-- 🚀 **Exploring**: Three.js & GSAP for mind-bending web experiences
-- 🌟 **See My Work**: [Portfolio](https://mooosakhan.github.io/Portfolio.me/) 
-- 🔥 **Tech Arsenal**: React, Node.js, Three.js, and a pinch of magic ✨
--->
 
 <br>
 
